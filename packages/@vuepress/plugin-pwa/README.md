@@ -141,7 +141,7 @@ module.exports = {
 }
 ```
 
-Feel free to submit PRs to improve the default [i18n configuration](https://github.com/vuejs/vuepress/blob/next/packages/%40vuepress/plugin-pwa/lib/i18n.js).
+Feel free to submit PRs to improve the default [i18n configuration](https://github.com/vuejs/vuepress/blob/master/packages/%40vuepress/plugin-pwa/lib/i18n.js).
     
 ## Customize the SW-Update Popup UI
 
